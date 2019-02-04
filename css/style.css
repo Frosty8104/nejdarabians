@@ -1,0 +1,54 @@
+body {
+    background: url(../img/sand.png) repeat;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    max-width: 1200px;
+    padding-left: 600px;
+}
+b {
+    font-size: 24px;
+}
+p {
+    font-size: 20px;
+}
+img {
+    padding-left: 225px;
+    padding-top: 50px;
+}
+nav {
+    text-align: center;
+}
+nav ul li {
+    display: inline-block;
+}
+nav ul li button {
+    background: url(../img/dgrey014.jpg);
+    border: none;
+    color: #ffffff;
+    font-family: 'Charm', cursive;
+    font-size: 30px;
+    font-weight: bold;
+    height: 72px;
+    padding-right: 25px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 180px;
+}
+nav ul li button:hover {
+    color: #ffcccc;
+}
+button {
+    background: url(../img/dgrey014.jpg);
+    border: none;
+    color: #ffffff;
+    font-family: 'Charm', cursive;
+    font-size: 30px;
+    font-weight: bold;
+    height: 72px;
+    padding-right: 25px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 300px;
+}
